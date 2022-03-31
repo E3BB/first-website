@@ -5,3 +5,8 @@
   text-align: center;
   border: 7px outset #FF7777;
 }
+
+@font-face {
+  font-family: "Oswald";
+  src: url("/first-website/Oswald/static/Oswald-Medium.ttf");
+}
