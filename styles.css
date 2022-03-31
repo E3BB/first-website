@@ -1,5 +1,7 @@
 .divvy {
   background-color: #774444;
-  width: 1200px;
-  height: 670px;
+  width: 900px;
+  height: 300px;
+  text-align: center;
+  border: 7px outset #FF7777;
 }
